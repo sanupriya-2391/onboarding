@@ -1,0 +1,1752 @@
+.mediaViewInfo {
+	--web-view-name: underwrittinf;
+	--web-view-id: underwrittinf;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: underwrittinf;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#underwrittinf {
+	position: absolute;
+	width: 1698px;
+	height: 951px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: underwrittinf;
+	--web-view-id: underwrittinf;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+#Group_188 {
+	position: absolute;
+	width: 1700px;
+	height: 951px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_1 {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_1 {
+	position: absolute;
+	overflow: visible;
+	width: 389px;
+	height: 55px;
+	left: 474px;
+	top: 151px;
+}
+#Screenshot_2023-11-27_174602 {
+	position: absolute;
+	width: 1700px;
+	height: 951px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_30 {
+	fill: rgba(246,246,246,1);
+}
+.Rectangle_30 {
+	position: absolute;
+	overflow: visible;
+	width: 1594px;
+	height: 885px;
+	left: 82px;
+	top: 66px;
+}
+#Rectangle_39 {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_39 {
+	position: absolute;
+	overflow: visible;
+	width: 299px;
+	height: 44px;
+	left: 1339px;
+	top: 4px;
+}
+#Screenshot_2023-11-28_183514 {
+	position: absolute;
+	width: 261px;
+	height: 41px;
+	left: 1319px;
+	top: 10px;
+	overflow: visible;
+}
+#Rectangle_75 {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_75 {
+	position: absolute;
+	overflow: visible;
+	width: 58px;
+	height: 21px;
+	left: 1516px;
+	top: 10px;
+}
+#Underwriting_ {
+	left: 1516px;
+	top: 9px;
+	position: absolute;
+	overflow: hidden;
+	width: 118px;
+	height: 22px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 19px;
+	color: rgba(80,136,188,1);
+}
+#Group_16 {
+	position: absolute;
+	width: 275.392px;
+	height: 46.797px;
+	left: 93.777px;
+	top: 82px;
+	overflow: visible;
+}
+#List_of_application_id {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 276.392px;
+	height: 39px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 22px;
+	color: rgba(92,85,90,1);
+	text-transform: uppercase;
+}
+#Path_1 {
+	fill: transparent;
+	stroke: rgba(72,72,72,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_1 {
+	overflow: visible;
+	position: absolute;
+	width: 1px;
+	height: 1px;
+	left: 247.392px;
+	top: 46.797px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_76 {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_76 {
+	position: absolute;
+	overflow: visible;
+	width: 1563px;
+	height: 822px;
+	left: 94px;
+	top: 129px;
+}
+#Rectangle_77 {
+	fill: rgba(36,128,204,1);
+}
+.Rectangle_77 {
+	position: absolute;
+	overflow: visible;
+	width: 1537px;
+	height: 53px;
+	left: 107px;
+	top: 139px;
+}
+#application_ID {
+	left: 166px;
+	top: 148px;
+	position: absolute;
+	overflow: visible;
+	width: 172.392px;
+	height: 39px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(255,255,255,1);
+	text-transform: capitalize;
+}
+#T_1234 {
+	left: 166px;
+	top: 209.5px;
+	position: absolute;
+	overflow: visible;
+	width: 91.392px;
+	height: 39px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(67,67,67,1);
+	text-transform: capitalize;
+}
+#n_0-Nov-2023 {
+	left: 1302px;
+	top: 213px;
+	position: absolute;
+	overflow: visible;
+	width: 148.5px;
+	height: 39px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(67,67,67,1);
+	text-transform: capitalize;
+}
+#Status {
+	left: 346.168px;
+	top: 146px;
+	position: absolute;
+	overflow: visible;
+	width: 68.392px;
+	height: 39px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(255,255,255,1);
+	text-transform: capitalize;
+}
+#TAT_Status {
+	left: 621.608px;
+	top: 148px;
+	position: absolute;
+	overflow: visible;
+	width: 113.392px;
+	height: 39px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(255,255,255,1);
+	text-transform: capitalize;
+}
+#Merchant_Name {
+	left: 906px;
+	top: 148px;
+	position: absolute;
+	overflow: visible;
+	width: 169.392px;
+	height: 39px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(255,255,255,1);
+	text-transform: capitalize;
+}
+#Terminal_ID {
+	left: 1125px;
+	top: 148px;
+	position: absolute;
+	overflow: visible;
+	width: 169.392px;
+	height: 39px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(255,255,255,1);
+	text-transform: capitalize;
+}
+#Created_Date {
+	left: 1299px;
+	top: 148px;
+	position: absolute;
+	overflow: visible;
+	width: 169.392px;
+	height: 39px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(255,255,255,1);
+	text-transform: capitalize;
+}
+#MCC_Code {
+	left: 1494px;
+	top: 148px;
+	position: absolute;
+	overflow: visible;
+	width: 169.392px;
+	height: 39px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(255,255,255,1);
+	text-transform: capitalize;
+}
+#Path_1_bo {
+	fill: transparent;
+	stroke: rgba(72,72,72,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_1_bo {
+	overflow: visible;
+	position: absolute;
+	width: 1px;
+	height: 1px;
+	left: 354.392px;
+	top: 204.297px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_38 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_38 {
+	overflow: visible;
+	position: absolute;
+	width: 1532.008px;
+	height: 1px;
+	left: 107px;
+	top: 267.65px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_39 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_39 {
+	overflow: visible;
+	position: absolute;
+	width: 1532.008px;
+	height: 1px;
+	left: 106px;
+	top: 354.65px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_40 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_40 {
+	overflow: visible;
+	position: absolute;
+	width: 1532.008px;
+	height: 1px;
+	left: 107px;
+	top: 449.65px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_41 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_41 {
+	overflow: visible;
+	position: absolute;
+	width: 1532.008px;
+	height: 1px;
+	left: 107px;
+	top: 542.65px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_41_bt {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_41_bt {
+	overflow: visible;
+	position: absolute;
+	width: 1532.01px;
+	height: 1px;
+	left: 107px;
+	top: 639.85px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_42 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_42 {
+	overflow: visible;
+	position: absolute;
+	width: 1532.008px;
+	height: 1px;
+	left: 107px;
+	top: 734.65px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_43 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_43 {
+	overflow: visible;
+	position: absolute;
+	width: 1532.008px;
+	height: 1px;
+	left: 107px;
+	top: 832.65px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_44 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_44 {
+	overflow: visible;
+	position: absolute;
+	width: 1532.008px;
+	height: 1px;
+	left: 107px;
+	top: 925.65px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_78 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(130,130,130,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_78 {
+	position: absolute;
+	overflow: visible;
+	width: 20px;
+	height: 19px;
+	left: 120px;
+	top: 156px;
+}
+#Rectangle_79 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(130,130,130,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_79 {
+	position: absolute;
+	overflow: visible;
+	width: 20px;
+	height: 19px;
+	left: 120px;
+	top: 218px;
+}
+#Rectangle_80 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(130,130,130,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_80 {
+	position: absolute;
+	overflow: visible;
+	width: 20px;
+	height: 19px;
+	left: 120px;
+	top: 301px;
+}
+#Rectangle_81 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(130,130,130,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_81 {
+	position: absolute;
+	overflow: visible;
+	width: 20px;
+	height: 19px;
+	left: 120px;
+	top: 391px;
+}
+#Rectangle_82 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(130,130,130,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_82 {
+	position: absolute;
+	overflow: visible;
+	width: 20px;
+	height: 19px;
+	left: 120px;
+	top: 487px;
+}
+#Rectangle_83 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(130,130,130,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_83 {
+	position: absolute;
+	overflow: visible;
+	width: 20px;
+	height: 19px;
+	left: 120px;
+	top: 581px;
+}
+#Rectangle_84 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(130,130,130,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_84 {
+	position: absolute;
+	overflow: visible;
+	width: 20px;
+	height: 19px;
+	left: 120px;
+	top: 676px;
+}
+#Rectangle_85 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(130,130,130,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_85 {
+	position: absolute;
+	overflow: visible;
+	width: 20px;
+	height: 19px;
+	left: 120px;
+	top: 772px;
+}
+#Rectangle_86 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(130,130,130,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_86 {
+	position: absolute;
+	overflow: visible;
+	width: 20px;
+	height: 19px;
+	left: 120px;
+	top: 869px;
+}
+#Group_127 {
+	position: absolute;
+	width: 257px;
+	height: 43px;
+	left: 346px;
+	top: 206px;
+	overflow: visible;
+}
+#Rectangle_87 {
+	fill: rgba(33,150,242,1);
+}
+.Rectangle_87 {
+	position: absolute;
+	overflow: visible;
+	width: 257px;
+	height: 43px;
+	left: 0px;
+	top: 0px;
+}
+#New_Application {
+	left: 12.608px;
+	top: 3.297px;
+	position: absolute;
+	overflow: visible;
+	width: 176.392px;
+	height: 39px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(255,255,255,1);
+	text-transform: capitalize;
+}
+#Group_135 {
+	position: absolute;
+	width: 257px;
+	height: 43px;
+	left: 622px;
+	top: 206px;
+	overflow: visible;
+}
+#Rectangle_87_ca {
+	fill: rgba(148,27,199,1);
+}
+.Rectangle_87_ca {
+	position: absolute;
+	overflow: visible;
+	width: 257px;
+	height: 43px;
+	left: 0px;
+	top: 0px;
+}
+#Not_Calculated {
+	left: 12.608px;
+	top: 3.297px;
+	position: absolute;
+	overflow: visible;
+	width: 176.392px;
+	height: 39px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(255,255,255,1);
+	text-transform: capitalize;
+}
+#Rectangle_88 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(130,130,130,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_88 {
+	position: absolute;
+	overflow: visible;
+	width: 20px;
+	height: 19px;
+	left: 120px;
+	top: 772px;
+}
+#Group_128 {
+	position: absolute;
+	width: 257px;
+	height: 43px;
+	left: 346px;
+	top: 289px;
+	overflow: visible;
+}
+#Rectangle_87_ce {
+	fill: rgba(33,150,242,1);
+}
+.Rectangle_87_ce {
+	position: absolute;
+	overflow: visible;
+	width: 257px;
+	height: 43px;
+	left: 0px;
+	top: 0px;
+}
+#New_Application_cf {
+	left: 12.608px;
+	top: 3.297px;
+	position: absolute;
+	overflow: visible;
+	width: 176.392px;
+	height: 39px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(255,255,255,1);
+	text-transform: capitalize;
+}
+#Group_129 {
+	position: absolute;
+	width: 257px;
+	height: 43px;
+	left: 346px;
+	top: 380px;
+	overflow: visible;
+}
+#Rectangle_87_ch {
+	fill: rgba(33,150,242,1);
+}
+.Rectangle_87_ch {
+	position: absolute;
+	overflow: visible;
+	width: 257px;
+	height: 43px;
+	left: 0px;
+	top: 0px;
+}
+#New_Application_ci {
+	left: 12.608px;
+	top: 3.297px;
+	position: absolute;
+	overflow: visible;
+	width: 176.392px;
+	height: 39px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(255,255,255,1);
+	text-transform: capitalize;
+}
+#Group_130 {
+	position: absolute;
+	width: 257px;
+	height: 43px;
+	left: 346px;
+	top: 473px;
+	overflow: visible;
+}
+#Rectangle_87_ck {
+	fill: rgba(33,150,242,1);
+}
+.Rectangle_87_ck {
+	position: absolute;
+	overflow: visible;
+	width: 257px;
+	height: 43px;
+	left: 0px;
+	top: 0px;
+}
+#New_Application_cl {
+	left: 12.608px;
+	top: 3.297px;
+	position: absolute;
+	overflow: visible;
+	width: 176.392px;
+	height: 39px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(255,255,255,1);
+	text-transform: capitalize;
+}
+#Group_131 {
+	position: absolute;
+	width: 257px;
+	height: 43px;
+	left: 346px;
+	top: 569px;
+	overflow: visible;
+}
+#Rectangle_87_cn {
+	fill: rgba(33,150,242,1);
+}
+.Rectangle_87_cn {
+	position: absolute;
+	overflow: visible;
+	width: 257px;
+	height: 43px;
+	left: 0px;
+	top: 0px;
+}
+#New_Application_co {
+	left: 12.608px;
+	top: 3.297px;
+	position: absolute;
+	overflow: visible;
+	width: 176.392px;
+	height: 39px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(255,255,255,1);
+	text-transform: capitalize;
+}
+#Group_132 {
+	position: absolute;
+	width: 257px;
+	height: 43px;
+	left: 346px;
+	top: 664px;
+	overflow: visible;
+}
+#Rectangle_87_cq {
+	fill: rgba(33,150,242,1);
+}
+.Rectangle_87_cq {
+	position: absolute;
+	overflow: visible;
+	width: 257px;
+	height: 43px;
+	left: 0px;
+	top: 0px;
+}
+#New_Application_cr {
+	left: 12.608px;
+	top: 3.297px;
+	position: absolute;
+	overflow: visible;
+	width: 176.392px;
+	height: 39px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(255,255,255,1);
+	text-transform: capitalize;
+}
+#Group_133 {
+	position: absolute;
+	width: 257px;
+	height: 43px;
+	left: 346px;
+	top: 760px;
+	overflow: visible;
+}
+#Rectangle_87_ct {
+	fill: rgba(33,150,242,1);
+}
+.Rectangle_87_ct {
+	position: absolute;
+	overflow: visible;
+	width: 257px;
+	height: 43px;
+	left: 0px;
+	top: 0px;
+}
+#New_Application_cu {
+	left: 12.608px;
+	top: 3.297px;
+	position: absolute;
+	overflow: visible;
+	width: 176.392px;
+	height: 39px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(255,255,255,1);
+	text-transform: capitalize;
+}
+#Group_134 {
+	position: absolute;
+	width: 257px;
+	height: 43px;
+	left: 346px;
+	top: 860px;
+	overflow: visible;
+}
+#Rectangle_87_cw {
+	fill: rgba(33,150,242,1);
+}
+.Rectangle_87_cw {
+	position: absolute;
+	overflow: visible;
+	width: 257px;
+	height: 43px;
+	left: 0px;
+	top: 0px;
+}
+#New_Application_cx {
+	left: 12.608px;
+	top: 3.297px;
+	position: absolute;
+	overflow: visible;
+	width: 176.392px;
+	height: 39px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(255,255,255,1);
+	text-transform: capitalize;
+}
+#T_1234_cy {
+	left: 166px;
+	top: 301.5px;
+	position: absolute;
+	overflow: visible;
+	width: 91.392px;
+	height: 39px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(67,67,67,1);
+	text-transform: capitalize;
+}
+#T_1234_cz {
+	left: 166px;
+	top: 382.5px;
+	position: absolute;
+	overflow: visible;
+	width: 91.392px;
+	height: 39px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(67,67,67,1);
+	text-transform: capitalize;
+}
+#T_1234_c {
+	left: 166px;
+	top: 478.5px;
+	position: absolute;
+	overflow: visible;
+	width: 91.392px;
+	height: 39px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(67,67,67,1);
+	text-transform: capitalize;
+}
+#T_1234_da {
+	left: 166px;
+	top: 572.5px;
+	position: absolute;
+	overflow: visible;
+	width: 91.392px;
+	height: 39px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(67,67,67,1);
+	text-transform: capitalize;
+}
+#T_1234_db {
+	left: 166px;
+	top: 668.5px;
+	position: absolute;
+	overflow: visible;
+	width: 91.392px;
+	height: 39px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(67,67,67,1);
+	text-transform: capitalize;
+}
+#T_1234_dc {
+	left: 166px;
+	top: 762.5px;
+	position: absolute;
+	overflow: visible;
+	width: 91.392px;
+	height: 39px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(67,67,67,1);
+	text-transform: capitalize;
+}
+#T_1234_dd {
+	left: 166px;
+	top: 862.5px;
+	position: absolute;
+	overflow: visible;
+	width: 91.392px;
+	height: 39px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(67,67,67,1);
+	text-transform: capitalize;
+}
+#n_8-Nov-2023 {
+	left: 1302px;
+	top: 294px;
+	position: absolute;
+	overflow: visible;
+	width: 148.5px;
+	height: 39px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(67,67,67,1);
+	text-transform: capitalize;
+}
+#n_8-Nov-2023_c {
+	left: 1302px;
+	top: 385px;
+	position: absolute;
+	overflow: visible;
+	width: 148.5px;
+	height: 39px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(67,67,67,1);
+	text-transform: capitalize;
+}
+#n_7-Nov-2023 {
+	left: 1302px;
+	top: 670px;
+	position: absolute;
+	overflow: visible;
+	width: 148.5px;
+	height: 39px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(67,67,67,1);
+	text-transform: capitalize;
+}
+#n_5-Nov-2023 {
+	left: 1302px;
+	top: 765px;
+	position: absolute;
+	overflow: visible;
+	width: 148.5px;
+	height: 39px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(67,67,67,1);
+	text-transform: capitalize;
+}
+#n_0-Nov-2023_c {
+	left: 1302px;
+	top: 861px;
+	position: absolute;
+	overflow: visible;
+	width: 148.5px;
+	height: 39px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(67,67,67,1);
+	text-transform: capitalize;
+}
+#n_0-Nov-2023_da {
+	left: 1302px;
+	top: 576px;
+	position: absolute;
+	overflow: visible;
+	width: 148.5px;
+	height: 39px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(67,67,67,1);
+	text-transform: capitalize;
+}
+#n_8-Nov-2023_db {
+	left: 1302px;
+	top: 482px;
+	position: absolute;
+	overflow: visible;
+	width: 148.5px;
+	height: 39px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(67,67,67,1);
+	text-transform: capitalize;
+}
+#Group_136 {
+	position: absolute;
+	width: 257px;
+	height: 43px;
+	left: 622px;
+	top: 289px;
+	overflow: visible;
+}
+#Rectangle_87_dd {
+	fill: rgba(148,27,199,1);
+}
+.Rectangle_87_dd {
+	position: absolute;
+	overflow: visible;
+	width: 257px;
+	height: 43px;
+	left: 0px;
+	top: 0px;
+}
+#Not_Calculated_de {
+	left: 12.608px;
+	top: 3.297px;
+	position: absolute;
+	overflow: visible;
+	width: 176.392px;
+	height: 39px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(255,255,255,1);
+	text-transform: capitalize;
+}
+#Group_137 {
+	position: absolute;
+	width: 257px;
+	height: 43px;
+	left: 622px;
+	top: 380px;
+	overflow: visible;
+}
+#Rectangle_87_dg {
+	fill: rgba(148,27,199,1);
+}
+.Rectangle_87_dg {
+	position: absolute;
+	overflow: visible;
+	width: 257px;
+	height: 43px;
+	left: 0px;
+	top: 0px;
+}
+#Not_Calculated_dh {
+	left: 12.608px;
+	top: 3.297px;
+	position: absolute;
+	overflow: visible;
+	width: 176.392px;
+	height: 39px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(255,255,255,1);
+	text-transform: capitalize;
+}
+#Group_138 {
+	position: absolute;
+	width: 257px;
+	height: 43px;
+	left: 622px;
+	top: 473px;
+	overflow: visible;
+}
+#Rectangle_87_dj {
+	fill: rgba(148,27,199,1);
+}
+.Rectangle_87_dj {
+	position: absolute;
+	overflow: visible;
+	width: 257px;
+	height: 43px;
+	left: 0px;
+	top: 0px;
+}
+#Not_Calculated_dk {
+	left: 12.608px;
+	top: 3.297px;
+	position: absolute;
+	overflow: visible;
+	width: 176.392px;
+	height: 39px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(255,255,255,1);
+	text-transform: capitalize;
+}
+#Group_139 {
+	position: absolute;
+	width: 257px;
+	height: 43px;
+	left: 622px;
+	top: 569px;
+	overflow: visible;
+}
+#Rectangle_87_dm {
+	fill: rgba(27,199,193,1);
+}
+.Rectangle_87_dm {
+	position: absolute;
+	overflow: visible;
+	width: 257px;
+	height: 43px;
+	left: 0px;
+	top: 0px;
+}
+#Met {
+	left: 12.608px;
+	top: 3.297px;
+	position: absolute;
+	overflow: visible;
+	width: 176.392px;
+	height: 39px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(255,255,255,1);
+	text-transform: capitalize;
+}
+#Group_140 {
+	position: absolute;
+	width: 257px;
+	height: 43px;
+	left: 622px;
+	top: 664px;
+	overflow: visible;
+}
+#Rectangle_87_dp {
+	fill: rgba(27,199,193,1);
+}
+.Rectangle_87_dp {
+	position: absolute;
+	overflow: visible;
+	width: 257px;
+	height: 43px;
+	left: 0px;
+	top: 0px;
+}
+#Met_dq {
+	left: 12.608px;
+	top: 3.297px;
+	position: absolute;
+	overflow: visible;
+	width: 176.392px;
+	height: 39px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(255,255,255,1);
+	text-transform: capitalize;
+}
+#Group_141 {
+	position: absolute;
+	width: 257px;
+	height: 43px;
+	left: 622px;
+	top: 759px;
+	overflow: visible;
+}
+#Rectangle_87_ds {
+	fill: rgba(27,199,193,1);
+}
+.Rectangle_87_ds {
+	position: absolute;
+	overflow: visible;
+	width: 257px;
+	height: 43px;
+	left: 0px;
+	top: 0px;
+}
+#Met_dt {
+	left: 12.608px;
+	top: 3.297px;
+	position: absolute;
+	overflow: visible;
+	width: 176.392px;
+	height: 39px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(255,255,255,1);
+	text-transform: capitalize;
+}
+#Group_142 {
+	position: absolute;
+	width: 257px;
+	height: 43px;
+	left: 622px;
+	top: 860px;
+	overflow: visible;
+}
+#Rectangle_87_dv {
+	fill: rgba(27,199,193,1);
+}
+.Rectangle_87_dv {
+	position: absolute;
+	overflow: visible;
+	width: 257px;
+	height: 43px;
+	left: 0px;
+	top: 0px;
+}
+#Met_dw {
+	left: 12.608px;
+	top: 3.297px;
+	position: absolute;
+	overflow: visible;
+	width: 176.392px;
+	height: 39px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(255,255,255,1);
+	text-transform: capitalize;
+}
+#T_1234_dx {
+	left: 1130px;
+	top: 213px;
+	position: absolute;
+	overflow: visible;
+	width: 91.392px;
+	height: 39px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(67,67,67,1);
+	text-transform: capitalize;
+}
+#abcew {
+	left: 908px;
+	top: 207.5px;
+	position: absolute;
+	overflow: visible;
+	width: 91.392px;
+	height: 39px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(67,67,67,1);
+	text-transform: capitalize;
+}
+#abcew_dz {
+	left: 906px;
+	top: 293px;
+	position: absolute;
+	overflow: visible;
+	width: 91.392px;
+	height: 39px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(67,67,67,1);
+	text-transform: capitalize;
+}
+#abcew_d {
+	left: 908px;
+	top: 384px;
+	position: absolute;
+	overflow: visible;
+	width: 91.392px;
+	height: 39px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(67,67,67,1);
+	text-transform: capitalize;
+}
+#abcew_ea {
+	left: 908px;
+	top: 475px;
+	position: absolute;
+	overflow: visible;
+	width: 91.392px;
+	height: 39px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(67,67,67,1);
+	text-transform: capitalize;
+}
+#abcew_eb {
+	left: 908px;
+	top: 575px;
+	position: absolute;
+	overflow: visible;
+	width: 91.392px;
+	height: 39px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(67,67,67,1);
+	text-transform: capitalize;
+}
+#abcew_ec {
+	left: 908px;
+	top: 666.2px;
+	position: absolute;
+	overflow: visible;
+	width: 91.392px;
+	height: 39px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(67,67,67,1);
+	text-transform: capitalize;
+}
+#abcew_ed {
+	left: 908px;
+	top: 763.5px;
+	position: absolute;
+	overflow: visible;
+	width: 91.392px;
+	height: 39px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(67,67,67,1);
+	text-transform: capitalize;
+}
+#abcew_ee {
+	left: 908px;
+	top: 865px;
+	position: absolute;
+	overflow: visible;
+	width: 91.392px;
+	height: 39px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(67,67,67,1);
+	text-transform: capitalize;
+}
+#n_789 {
+	left: 1494px;
+	top: 213px;
+	position: absolute;
+	overflow: visible;
+	width: 91.392px;
+	height: 39px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(67,67,67,1);
+	text-transform: capitalize;
+}
+#T_1234_d {
+	left: 1130px;
+	top: 294px;
+	position: absolute;
+	overflow: visible;
+	width: 91.392px;
+	height: 39px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(67,67,67,1);
+	text-transform: capitalize;
+}
+#T_12345 {
+	left: 1130px;
+	top: 385px;
+	position: absolute;
+	overflow: visible;
+	width: 91.392px;
+	height: 39px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(67,67,67,1);
+	text-transform: capitalize;
+}
+#T_12345_d {
+	left: 1130px;
+	top: 482px;
+	position: absolute;
+	overflow: visible;
+	width: 91.392px;
+	height: 39px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(67,67,67,1);
+	text-transform: capitalize;
+}
+#T_12345_ea {
+	left: 1130px;
+	top: 576px;
+	position: absolute;
+	overflow: visible;
+	width: 91.392px;
+	height: 39px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(67,67,67,1);
+	text-transform: capitalize;
+}
+#T_12345_eb {
+	left: 1130px;
+	top: 670px;
+	position: absolute;
+	overflow: visible;
+	width: 91.392px;
+	height: 39px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(67,67,67,1);
+	text-transform: capitalize;
+}
+#T_12345_ec {
+	left: 1130px;
+	top: 765px;
+	position: absolute;
+	overflow: visible;
+	width: 91.392px;
+	height: 39px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(67,67,67,1);
+	text-transform: capitalize;
+}
+#T_12345_ed {
+	left: 1130px;
+	top: 861px;
+	position: absolute;
+	overflow: visible;
+	width: 91.392px;
+	height: 39px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(67,67,67,1);
+	text-transform: capitalize;
+}
+#n_789_ee {
+	left: 1494px;
+	top: 294px;
+	position: absolute;
+	overflow: visible;
+	width: 91.392px;
+	height: 39px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(67,67,67,1);
+	text-transform: capitalize;
+}
+#n_037 {
+	left: 1494px;
+	top: 482px;
+	position: absolute;
+	overflow: visible;
+	width: 91.392px;
+	height: 39px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(67,67,67,1);
+	text-transform: capitalize;
+}
+#n_789_eg {
+	left: 1494px;
+	top: 385px;
+	position: absolute;
+	overflow: visible;
+	width: 91.392px;
+	height: 39px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(67,67,67,1);
+	text-transform: capitalize;
+}
+#n_789_eh {
+	left: 1494px;
+	top: 576px;
+	position: absolute;
+	overflow: visible;
+	width: 91.392px;
+	height: 39px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(67,67,67,1);
+	text-transform: capitalize;
+}
+#n_091 {
+	left: 1494px;
+	top: 670px;
+	position: absolute;
+	overflow: visible;
+	width: 91.392px;
+	height: 39px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(67,67,67,1);
+	text-transform: capitalize;
+}
+#n_789_ej {
+	left: 1494px;
+	top: 765px;
+	position: absolute;
+	overflow: visible;
+	width: 91.392px;
+	height: 39px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(67,67,67,1);
+	text-transform: capitalize;
+}
+#n_789_ek {
+	left: 1494px;
+	top: 861px;
+	position: absolute;
+	overflow: visible;
+	width: 91.392px;
+	height: 39px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(67,67,67,1);
+	text-transform: capitalize;
+}

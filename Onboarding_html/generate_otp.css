@@ -1,0 +1,359 @@
+.mediaViewInfo {
+	--web-view-name: generate-otp;
+	--web-view-id: generate-otp;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: generate-otp;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#generate-otp {
+	position: absolute;
+	width: 1920px;
+	height: 951px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: generate-otp;
+	--web-view-id: generate-otp;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes  {
+
+
+}
+#Group_170 {
+	position: absolute;
+	width: 1920px;
+	height: 951px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Screenshot_2023-11-27_172132_cjg {
+	position: absolute;
+	width: 1920px;
+	height: 951px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_1_cjh {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_1_cjh {
+	position: absolute;
+	overflow: visible;
+	width: 389px;
+	height: 55px;
+	left: 474px;
+	top: 151px;
+}
+#Login_cji {
+	left: 620px;
+	top: 143px;
+	position: absolute;
+	overflow: visible;
+	width: 99px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+#Group_1 {
+	position: absolute;
+	width: 526px;
+	height: 539px;
+	left: 415px;
+	top: 126px;
+	overflow: visible;
+}
+#Rectangle_3_cjk {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_3_cjk {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 544px;
+	height: 557px;
+	left: 0px;
+	top: 0px;
+}
+#Merchant_Login {
+	left: 152px;
+	top: 12px;
+	position: absolute;
+	overflow: visible;
+	width: 223px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 32px;
+	color: rgba(0,0,0,1);
+}
+#HDFC_Merchant_Portal {
+	left: 185px;
+	top: 53px;
+	position: absolute;
+	overflow: visible;
+	width: 148px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(52,85,136,1);
+}
+#Rectangle_2 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(193,193,193,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2 {
+	position: absolute;
+	overflow: visible;
+	width: 466px;
+	height: 39px;
+	left: 30px;
+	top: 162px;
+}
+#Rectangle_4_cjo {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(193,193,193,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_4_cjo {
+	position: absolute;
+	overflow: visible;
+	width: 466px;
+	height: 38px;
+	left: 30px;
+	top: 244px;
+}
+#Rectangle_5 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(193,193,193,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_5 {
+	position: absolute;
+	overflow: visible;
+	width: 466px;
+	height: 38px;
+	left: 30px;
+	top: 324px;
+}
+#PLEASE_SIGN_IN {
+	left: 28px;
+	top: 86px;
+	position: absolute;
+	overflow: visible;
+	width: 301px;
+	height: 31px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+#Mobile_No_cjr {
+	left: 29px;
+	top: 135px;
+	position: absolute;
+	overflow: visible;
+	width: 102px;
+	height: 31px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(112,112,112,1);
+}
+#PAN_No {
+	left: 30px;
+	top: 219px;
+	position: absolute;
+	overflow: visible;
+	width: 102px;
+	height: 31px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(112,112,112,1);
+}
+#AC_Number {
+	left: 30px;
+	top: 298px;
+	position: absolute;
+	overflow: visible;
+	width: 102px;
+	height: 31px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(112,112,112,1);
+}
+#n_938000172 {
+	left: 42px;
+	top: 169px;
+	position: absolute;
+	overflow: visible;
+	width: 149px;
+	height: 31px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(45,45,45,1);
+}
+#BNZPM2401F_cjv {
+	left: 42px;
+	top: 249px;
+	position: absolute;
+	overflow: visible;
+	width: 149px;
+	height: 31px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(45,45,45,1);
+}
+#n_402207896001 {
+	left: 42px;
+	top: 331px;
+	position: absolute;
+	overflow: visible;
+	width: 149px;
+	height: 31px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(45,45,45,1);
+}
+#Line_1 {
+	fill: transparent;
+	stroke: rgba(233,233,233,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_1 {
+	overflow: visible;
+	position: absolute;
+	width: 470.008px;
+	height: 4px;
+	left: 26.5px;
+	top: 123.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_6_cjy {
+	fill: rgba(51,51,51,1);
+}
+.Rectangle_6_cjy {
+	position: absolute;
+	overflow: visible;
+	width: 467px;
+	height: 44px;
+	left: 28px;
+	top: 430px;
+}
+#Login_cjz {
+	left: 231px;
+	top: 435px;
+	position: absolute;
+	overflow: visible;
+	width: 55px;
+	height: 31px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#Generate_OTP {
+	left: 39px;
+	top: 384px;
+	position: absolute;
+	overflow: visible;
+	width: 129px;
+	height: 31px;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: Enter_otp.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(54,87,140,1);
+}
+#Rectangle_33_cj {
+	fill: rgba(51,83,132,1);
+}
+.Rectangle_33_cj {
+	position: absolute;
+	overflow: visible;
+	width: 285px;
+	height: 130px;
+	left: 1012px;
+	top: 294px;
+}
+#Rectangle_34_cj {
+	fill: rgba(39,78,140,1);
+}
+.Rectangle_34_cj {
+	position: absolute;
+	overflow: visible;
+	width: 160px;
+	height: 59px;
+	left: 1339px;
+	top: 330px;
+}
+#HDFC_Bank_Logosvg_cj {
+	position: absolute;
+	width: 507px;
+	height: 88px;
+	left: 1079px;
+	top: 320px;
+	overflow: visible;
+}
